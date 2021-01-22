@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d2088d-ee64-4a64-b713-edc8b3f5adcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZHqSdFPy4QAQqvLarC9USUPCfZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ch5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7d2088d-ee64-4a64-b713-edc8b3f5adcb" name="Default Changelist" comment="" />
+      <created>1584506367873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584506367873</updated>
+      <workItem from="1584506374633" duration="15252000" />
+      <workItem from="1584681909019" duration="18163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="725" height="208" key="GridCell.Tab.0.bottom" timestamp="1584708054422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584708054422" />
+    <state width="725" height="208" key="GridCell.Tab.0.center" timestamp="1584708054422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584708054422" />
+    <state width="725" height="208" key="GridCell.Tab.0.left" timestamp="1584708054422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584708054422" />
+    <state width="725" height="208" key="GridCell.Tab.0.right" timestamp="1584708054422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584708054422" />
+    <state width="724" height="261" key="GridCell.Tab.1.bottom" timestamp="1584531126727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584531126727" />
+    <state width="724" height="261" key="GridCell.Tab.1.center" timestamp="1584531126727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584531126727" />
+    <state width="724" height="261" key="GridCell.Tab.1.left" timestamp="1584531126726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584531126726" />
+    <state width="724" height="261" key="GridCell.Tab.1.right" timestamp="1584531126727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584531126727" />
+    <state x="873" y="157" width="540" height="524" key="StructurePopup" timestamp="1584685486540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="873" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1584685486540" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584681931515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584681931515" />
+    <state x="356" y="28" key="new project wizard" timestamp="1584708046261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584708046261" />
+    <state x="808" y="189" key="run.anything.popup" timestamp="1584704560404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="808" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584704560404" />
+    <state x="814" y="145" key="search.everywhere.popup" timestamp="1584704608137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584704608137" />
+    <state x="874" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584682992562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="874" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1584682992562" />
+  </component>
+</project>

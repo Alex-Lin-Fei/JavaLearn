@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3da0fa22-e32a-4f79-8599-cd7be86f57e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1T0FA4UF8McFcitzgemEKV6fW06" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Player">
+    <configuration name="Player" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Player" />
+      <module name="project4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Referee" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Referee" />
+      <module name="project4" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Player" />
+      <item itemvalue="Application.Referee" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Referee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3da0fa22-e32a-4f79-8599-cd7be86f57e7" name="Default Changelist" comment="" />
+      <created>1572588958337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572588958337</updated>
+      <workItem from="1572588962018" duration="1021000" />
+      <workItem from="1572661636292" duration="358000" />
+      <workItem from="1572770059267" duration="820000" />
+      <workItem from="1572784453899" duration="1985000" />
+      <workItem from="1572875973960" duration="9000" />
+      <workItem from="1572876003841" duration="39000" />
+      <workItem from="1572876261692" duration="897000" />
+      <workItem from="1572877187905" duration="61000" />
+      <workItem from="1572877267562" duration="132000" />
+      <workItem from="1572877581361" duration="1254000" />
+      <workItem from="1572920921387" duration="2005000" />
+      <workItem from="1572922974773" duration="2697000" />
+      <workItem from="1572925861288" duration="1753000" />
+      <workItem from="1572936293828" duration="1906000" />
+      <workItem from="1572938560405" duration="3920000" />
+      <workItem from="1572946677181" duration="3330000" />
+      <workItem from="1573738274416" duration="479000" />
+      <workItem from="1573792056574" duration="1020000" />
+      <workItem from="1574406694084" duration="721000" />
+      <workItem from="1574502040901" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

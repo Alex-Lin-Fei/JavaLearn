@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration with HttpSession</title>
+</head>
+<body>
+Please register to your instructor`s staff information
+<form method="get" action="http://localhost:8080/StaffInfo_war/StaffInfo">
+    <p><b>ID</b>
+        <input type="text" name="Id">
+    </p>
+    <p>Last Name<font color="#FF0000">*</font>
+        <input type="text" name="lastName">&nbsp;
+        First Name<font color="#FF0000">*</font>
+        <input type="text" name="firstName">&nbsp;
+        MI<input type="text" name="mi" size="3">
+    </p>
+    <p>Telephone
+        <input type="text" name="telephone" size="20">&nbsp;
+        Email
+        <input type="text" name="email" size="28">&nbsp;
+    </p>
+    <p>
+        <label>Address</label><input type="text" name="address" size="50">
+    </p>
+    <p><label>City</label><input type="text" name="city" size="23">&nbsp;
+        <label>State</label>
+        <select size="1" name="state">
+            <option value="GA">Georgia-GA</option>
+            <option value="OK">Oklahoma-OK</option>
+            <option value="IN">Indiana-N</option>
+        </select>
+    </p>
+    <p>
+        <input type="submit" name="view" value="View">
+        <input type="submit" name="insert" value="Insert">
+        <input type="submit" name="update" value="Update">
+        <input type="reset" name="reset" value="Clear">
+    </p>
+</form>
+<p><font color="#FF0000">* required fields</font></p>
+</body>
+</html>

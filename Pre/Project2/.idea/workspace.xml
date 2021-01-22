@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="367ccae7-b18a-4034-bce3-773a5eb9abcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RdXKe6qX5KJHZdYcIoHzuM7D2o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Animal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Project2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367ccae7-b18a-4034-bce3-773a5eb9abcb" name="Default Changelist" comment="" />
+      <created>1569997883233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569997883233</updated>
+      <workItem from="1569997888626" duration="2916000" />
+      <workItem from="1570002649500" duration="4000" />
+      <workItem from="1570422383917" duration="15000" />
+      <workItem from="1570526155292" duration="201000" />
+      <workItem from="1570526520320" duration="190000" />
+      <workItem from="1570526933650" duration="323000" />
+      <workItem from="1570527580949" duration="592000" />
+      <workItem from="1570528263471" duration="72000" />
+      <workItem from="1570774753085" duration="53000" />
+      <workItem from="1570776968406" duration="92000" />
+      <workItem from="1570968373480" duration="521000" />
+      <workItem from="1570972894303" duration="67000" />
+      <workItem from="1570974644971" duration="104000" />
+      <workItem from="1570976716724" duration="16000" />
+      <workItem from="1571036682024" duration="112000" />
+      <workItem from="1583469852801" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583469946551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583469946551" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583469990023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1583469990023" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1583470120524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583470120524" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1583469917614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583469917614" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FindInfo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FindInfo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FindInfo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FindInfo:war exploded" />
+    </root>
+  </artifact>
+</component>
